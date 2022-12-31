@@ -4,6 +4,7 @@
 Basically, what this programe does is to show the mandelbort set in the form of dynamic image by using pygame library
 
 The final function includes 
+
 (1)drawing this mandelbort set with distincts colors depending on their steps of achieveing infinity
 
 (2)zoom in and out to help users futher observe specific domains for this set
