@@ -1,2 +1,2 @@
 # mandelbort_explorer
-"The Mandelbrot set (/ˈmændəlbroʊt, -brɒt/)[1][2] is the set of complex numbers {\displaystyle c}c for which the function {\displaystyle f_{c}(z)=z^{2}+c}{\displaystyle f_{c}(z)=z^{2}+c} does not diverge to infinity when iterated from {\displaystyle z=0}z=0, i.e., for which the sequence {\displaystyle f_{c}(0)}{\displaystyle f_{c}(0)}, {\displaystyle f_{c}(f_{c}(0))}{\displaystyle f_{c}(f_{c}(0))}, etc., remains bounded in absolute value."
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/113453761/210129194-6e7ff83d-1fbd-459d-a7f8-0e87f3fc84a0.png">
